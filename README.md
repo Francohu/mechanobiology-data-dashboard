@@ -70,3 +70,7 @@ These sources informed the thresholds, optimal ranges and warnings implemented i
 ## License
 
 This project is provided for educational and research purposes.  You may use, modify and distribute it at your own risk.  Cite the original data sources and this repository as appropriate.
+
+## Citation
+Hu, Qinfu (2025). *Mechanobiology Data Dashboard: Predicting Bone Formation Rate from Mechanical Loading Parameters.* Zenodo. https://doi.org/10.5281/zenodo.17365836
+
